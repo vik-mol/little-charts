@@ -1,1 +1,2 @@
-export { default as  LittleCharts } from "./little-charts";
+export { default as Line } from './line';
+export { default as Polygon } from './polygon';
